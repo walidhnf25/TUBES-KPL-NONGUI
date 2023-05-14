@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace TUBES_KPL_NONGUI
 {
-    public class AttendanceSystem
+    public class SystemNotifikasi
     {
         private Dictionary<string, bool> attendanceData;
         private Dictionary<bool, string> attendanceStatus;
 
-        public AttendanceSystem()
+        public SystemNotifikasi()
         {
             attendanceData = new Dictionary<string, bool>();
             attendanceStatus = new Dictionary<bool, string> {
