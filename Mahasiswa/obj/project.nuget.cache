@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "enq0HZUiZDC/g/mwbAFAAif0PwBqz7euFyObi/Jnp41eWJLn0PCrs+2c3mlS1An1JH8nal/ko0+VvwbBeZzx9A==",
+  "success": true,
+  "projectFilePath": "D:\\Praktek Smstr 4\\KPL\\TUBES-KPL-NONGUI\\Mahasiswa\\Mahasiswa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad Yaasin Rafi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Muhammad Yaasin Rafi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Yaasin Rafi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Yaasin Rafi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Yaasin Rafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Muhammad Yaasin Rafi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

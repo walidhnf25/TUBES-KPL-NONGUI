@@ -1,0 +1,66 @@
+{
+  "JadwalKuliah": {
+    "Jadwal": [
+      {
+        "Hari": "Senin",
+        "Jam": "08:00-10:00",
+        "MataKuliah": "Matematika Dasar",
+        "Ruangan": "A1.301"
+      },
+      {
+        "Hari": "Senin",
+        "Jam": "10:00-12:00",
+        "MataKuliah": "Fisika Dasar",
+        "Ruangan": "A1.302"
+      },
+      {
+        "Hari": "Selasa",
+        "Jam": "08:00-10:00",
+        "MataKuliah": "Bahasa Inggris",
+        "Ruangan": "A1.303"
+      },
+      {
+        "Hari": "Selasa",
+        "Jam": "10:00-12:00",
+        "MataKuliah": "Pemrograman Dasar",
+        "Ruangan": "A1.304"
+      },
+      {
+        "Hari": "Rabu",
+        "Jam": "08:00-10:00",
+        "MataKuliah": "Algoritma dan Struktur Data",
+        "Ruangan": "A1.301"
+      },
+      {
+        "Hari": "Rabu",
+        "Jam": "10:00-12:00",
+        "MataKuliah": "Kalkulus",
+        "Ruangan": "A1.302"
+      },
+      {
+        "Hari": "Kamis",
+        "Jam": "08:00-10:00",
+        "MataKuliah": "Basis Data",
+        "Ruangan": "A1.303"
+      },
+      {
+        "Hari": "Kamis",
+        "Jam": "10:00-12:00",
+        "MataKuliah": "Sistem Operasi",
+        "Ruangan": "A1.304"
+      },
+      {
+        "Hari": "Jumat",
+        "Jam": "08:00-10:00",
+        "MataKuliah": "Pemrograman Berorientasi Objek",
+        "Ruangan": "A1.301"
+      },
+      {
+        "Hari": "Jumat",
+        "Jam": "10:00-12:00",
+        "MataKuliah": "Arsitektur Komputer",
+        "Ruangan": "A1.302"
+      }
+    ]
+  }
+}
