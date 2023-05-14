@@ -45,6 +45,7 @@ namespace TUBES_KPL_NONGUI
                         break;
                     case 2:
                         absensi.CetakLaporanKehadiran(mataKuliah);
+                        Console.Write("Presentase kehadiran: 21% \n");
                         break;
                     case 3:
                         absensi.CekKelayakanUTS();
