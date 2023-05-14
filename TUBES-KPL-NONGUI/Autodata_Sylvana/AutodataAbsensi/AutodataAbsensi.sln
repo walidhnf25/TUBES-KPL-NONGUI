@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutodataAbsensi", "AutodataAbsensi\AutodataAbsensi.csproj", "{6865B050-2ADA-49A2-801F-D8CE070AA77B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit testing autodata absensi", "Unit testing autodata absensi\Unit testing autodata absensi.csproj", "{89788BC7-5992-46B1-95EB-D410828C6472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6865B050-2ADA-49A2-801F-D8CE070AA77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6865B050-2ADA-49A2-801F-D8CE070AA77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6865B050-2ADA-49A2-801F-D8CE070AA77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89788BC7-5992-46B1-95EB-D410828C6472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89788BC7-5992-46B1-95EB-D410828C6472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89788BC7-5992-46B1-95EB-D410828C6472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89788BC7-5992-46B1-95EB-D410828C6472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
