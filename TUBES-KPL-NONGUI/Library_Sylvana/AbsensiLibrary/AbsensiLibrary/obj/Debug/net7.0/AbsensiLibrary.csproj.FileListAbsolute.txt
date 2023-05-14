@@ -1,0 +1,12 @@
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/bin/Debug/net7.0/AbsensiLibrary.deps.json
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/bin/Debug/net7.0/AbsensiLibrary.dll
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/bin/Debug/net7.0/AbsensiLibrary.pdb
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/AbsensiLibrary.csproj.AssemblyReference.cache
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/AbsensiLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/AbsensiLibrary.AssemblyInfoInputs.cache
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/AbsensiLibrary.AssemblyInfo.cs
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/AbsensiLibrary.csproj.CoreCompileInputs.cache
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/AbsensiLibrary.dll
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/refint/AbsensiLibrary.dll
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/AbsensiLibrary.pdb
+/Users/sylvanarheina/Documents/KPL PRAKTIKUM/JURNAL_MOD9_1302210017/TUBES-KPL-NONGUI/TUBES-KPL-NONGUI/Library_Sylvana/AbsensiLibrary/AbsensiLibrary/obj/Debug/net7.0/ref/AbsensiLibrary.dll
