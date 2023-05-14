@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\walid\\source\\repos\\Kehadiran\\Kehadiran\\Kehadiran.csproj",
+      "projectUniqueName": "C:\\Users\\walid\\source\\repos\\TUBES-KPL-NONGUI\\Kehadiran\\Kehadiran\\Kehadiran.csproj",
       "projectName": "Kehadiran",
-      "projectPath": "C:\\Users\\walid\\source\\repos\\Kehadiran\\Kehadiran\\Kehadiran.csproj",
+      "projectPath": "C:\\Users\\walid\\source\\repos\\TUBES-KPL-NONGUI\\Kehadiran\\Kehadiran\\Kehadiran.csproj",
       "packagesPath": "C:\\Users\\walid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\walid\\source\\repos\\Kehadiran\\Kehadiran\\obj\\",
+      "outputPath": "C:\\Users\\walid\\source\\repos\\TUBES-KPL-NONGUI\\Kehadiran\\Kehadiran\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\walid\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TUBES-KPL-NONGUI", "TUBES-KPL-NONGUI\TUBES-KPL-NONGUI.csproj", "{A46EFE1A-59D5-46BE-B851-729E8BD8580C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{21F0AFC5-A27F-4A92-8345-38DC9B5408D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A46EFE1A-59D5-46BE-B851-729E8BD8580C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A46EFE1A-59D5-46BE-B851-729E8BD8580C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A46EFE1A-59D5-46BE-B851-729E8BD8580C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F0AFC5-A27F-4A92-8345-38DC9B5408D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F0AFC5-A27F-4A92-8345-38DC9B5408D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F0AFC5-A27F-4A92-8345-38DC9B5408D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F0AFC5-A27F-4A92-8345-38DC9B5408D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
