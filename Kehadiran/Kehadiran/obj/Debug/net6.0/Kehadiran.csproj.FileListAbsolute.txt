@@ -1,0 +1,12 @@
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\Kehadiran.csproj.AssemblyReference.cache
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\Kehadiran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\Kehadiran.AssemblyInfoInputs.cache
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\Kehadiran.AssemblyInfo.cs
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\Kehadiran.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\bin\Debug\net6.0\Kehadiran.deps.json
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\bin\Debug\net6.0\Kehadiran.dll
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\bin\Debug\net6.0\Kehadiran.pdb
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\Kehadiran.dll
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\refint\Kehadiran.dll
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\Kehadiran.pdb
+C:\Users\walid\source\repos\Kehadiran\Kehadiran\obj\Debug\net6.0\ref\Kehadiran.dll
