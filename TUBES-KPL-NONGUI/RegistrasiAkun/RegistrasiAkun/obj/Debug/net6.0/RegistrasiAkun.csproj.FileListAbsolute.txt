@@ -1,0 +1,15 @@
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\bin\Debug\net6.0\RegistrasiAkun.exe
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\bin\Debug\net6.0\RegistrasiAkun.deps.json
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\bin\Debug\net6.0\RegistrasiAkun.runtimeconfig.json
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\bin\Debug\net6.0\RegistrasiAkun.dll
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\bin\Debug\net6.0\RegistrasiAkun.pdb
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.csproj.AssemblyReference.cache
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.AssemblyInfoInputs.cache
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.AssemblyInfo.cs
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.csproj.CoreCompileInputs.cache
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.dll
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\refint\RegistrasiAkun.dll
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.pdb
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\RegistrasiAkun.genruntimeconfig.cache
+D:\KULIAH 4\KPL\TP\RegistrasiAkun\RegistrasiAkun\obj\Debug\net6.0\ref\RegistrasiAkun.dll
