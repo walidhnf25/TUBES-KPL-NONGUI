@@ -17,7 +17,7 @@ namespace TUBES_KPL_NONGUI
             List<bool> attendanceData = new List<bool> { true, true,false, true, true, true , true, true , true, true };
             AnalisisPresensi analisisPresensi = new AnalisisPresensi(attendanceData);
             Console.WriteLine("Persentase Hadir: {0}", analisisPresensi.GetAttendancePercentage());
-            Console.WriteLine("Apakah selalu hadir? {0}", analisisPresensi.IsAttendanceImproving() ? "Yes" : "No");
+            Console.WriteLine("Apakah mahasiswa selalu hadir? {0}", analisisPresensi.IsAttendanceImproving() ? "Ya" : "Tidak");
             
 
         }
