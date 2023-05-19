@@ -45,7 +45,7 @@ namespace UnitTest_Raffa
             // Act
             systemNotifikasi.AlertAbsentStudents();
 
-            // Assert - check the output manually
+            // Assert - check  output manual
         }
     }
 }

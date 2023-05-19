@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 public class AnalisisPresensi
@@ -27,7 +28,17 @@ public class AnalisisPresensi
     public bool IsAttendanceImproving()
     {
         States currentState = States.Initial;
-        for (int i = 1; i < attendanceData.Count; i++)
+        int classCount = attendanceData.Count();
+        int startIdx = Math.Max(0, classCount - 3); // index of the last 3 classes
+        int presentCountLastThree = attendanceData.GetRange(startIdx, classCount - startIdx).Count(isPresent => isPresent);
+
+        // check if last 3 classes are attended, if not then attendance is not improving
+        if (presentCountLastThree < 3)
+        {
+            return false;
+        }
+
+        for (int i = 1; i < classCount; i++)
         {
             bool isPresent = attendanceData[i];
             switch (currentState)
@@ -51,11 +62,12 @@ public class AnalisisPresensi
                 case States.NotImproving:
                     if (isPresent)
                     {
-                        return false;
+                        return true;
                     }
                     break;
             }
         }
+
         return currentState == States.Improving;
     }
 }
