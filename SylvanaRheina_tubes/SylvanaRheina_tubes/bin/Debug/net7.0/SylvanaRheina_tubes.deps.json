@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SylvanaRheina_tubes/1.0.0": {
+        "runtime": {
+          "SylvanaRheina_tubes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SylvanaRheina_tubes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

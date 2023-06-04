@@ -1,0 +1,15 @@
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.csproj.AssemblyReference.cache
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.AssemblyInfoInputs.cache
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.AssemblyInfo.cs
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.csproj.CoreCompileInputs.cache
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/bin/Debug/net7.0/SylvanaRheina_tubes
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/bin/Debug/net7.0/SylvanaRheina_tubes.deps.json
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/bin/Debug/net7.0/SylvanaRheina_tubes.runtimeconfig.json
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/bin/Debug/net7.0/SylvanaRheina_tubes.dll
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/bin/Debug/net7.0/SylvanaRheina_tubes.pdb
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.dll
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/refint/SylvanaRheina_tubes.dll
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.pdb
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/SylvanaRheina_tubes.genruntimeconfig.cache
+/Users/sylvanarheina/Documents/TUBES KPL /TUBES-KPL-NONGUI/SylvanaRheina_tubes/SylvanaRheina_tubes/obj/Debug/net7.0/ref/SylvanaRheina_tubes.dll
