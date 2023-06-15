@@ -29,10 +29,10 @@ public class AnalisisPresensi
     {
         States currentState = States.Initial;
         int classCount = attendanceData.Count();
-        int startIdx = Math.Max(0, classCount - 3); // index of the last 3 classes
+        int startIdx = Math.Max(0, classCount - 3); // index 3 terakhir class
         int presentCountLastThree = attendanceData.GetRange(startIdx, classCount - startIdx).Count(isPresent => isPresent);
 
-        // check if last 3 classes are attended, if not then attendance is not improving
+        // check mahasiswa isImproving
         if (presentCountLastThree < 3)
         {
             return false;

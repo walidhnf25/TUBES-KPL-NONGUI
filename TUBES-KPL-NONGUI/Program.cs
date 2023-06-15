@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
+
 
 namespace TUBES_KPL_NONGUI
 {
@@ -11,7 +13,7 @@ namespace TUBES_KPL_NONGUI
             SystemNotifikasi attendanceSystem = new SystemNotifikasi();
 
             Console.WriteLine("Sistem Presensi");
-            Console.WriteLine("----------------");
+            Console.WriteLine("======================");
 
             while (true)
             {
@@ -20,6 +22,7 @@ namespace TUBES_KPL_NONGUI
                 Console.WriteLine("2. Notifikasi Absen");
                 Console.WriteLine("3. Analisis Presensi");
                 Console.WriteLine("4. Keluar");
+                Console.WriteLine("=====================");
 
                 string input = Console.ReadLine();
 
@@ -39,7 +42,7 @@ namespace TUBES_KPL_NONGUI
                 else if (input == "2")
                 {
                     Console.WriteLine("Notifikasi Absen Mahasiswa");
-                    Console.WriteLine("-------------");
+                    Console.WriteLine("==========================");
 
                     attendanceSystem.AlertAbsentStudents();
 
@@ -75,11 +78,13 @@ namespace TUBES_KPL_NONGUI
                 else if (input == "4")
                 {
                     Console.WriteLine("Terima kasih telah menggunakan Sistem Presensi.");
+                    Thread.Sleep(3000);
                     break;
                 }
                 else
                 {
                     Console.WriteLine("Input tidak valid. Silakan masukkan pilihan yang benar.");
+                   
                     Console.WriteLine();
                 }
             }
