@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
 namespace TUBES_KPL_NONGUI
 {
     public class SystemNotifikasi
@@ -13,10 +12,11 @@ namespace TUBES_KPL_NONGUI
         {
             attendanceData = new Dictionary<string, bool>();
             attendanceStatus = new Dictionary<bool, string> {
-            { true, "Hadir" },
-            { false, "absen" }
-        };
+                { true, "Hadir" }, // Status kehadiran true berarti "Hadir"
+                { false, "Absen" } // Status kehadiran false berarti "Absen"
+            };
         }
+
         public Dictionary<string, bool> GetAttendanceData()
         {
             return attendanceData;
@@ -34,8 +34,8 @@ namespace TUBES_KPL_NONGUI
                 string studentId = studentAttendance.Key;
                 bool isPresent = studentAttendance.Value;
                 string attendanceStatusMsg = attendanceStatus[isPresent];
-                Console.WriteLine("Notifikasi Absen {0}: anda {1} dari kelas hari ini.", studentId, attendanceStatusMsg);
-                // lanjut menambahkan 
+                // Menampilkan notifikasi absen untuk setiap mahasiswa
+                Console.WriteLine("Notifikasi Absen {0}: Anda {1} dari kelas hari ini.", studentId, attendanceStatusMsg);
             }
         }
     }

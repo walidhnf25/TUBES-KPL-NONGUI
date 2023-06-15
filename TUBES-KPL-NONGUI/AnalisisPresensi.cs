@@ -6,7 +6,7 @@ public class AnalisisPresensi
 {
     private List<bool> attendanceData;
 
-    private enum States
+    private enum AttendanceStates
     {
         Initial,
         Improving,
@@ -27,12 +27,12 @@ public class AnalisisPresensi
 
     public bool IsAttendanceImproving()
     {
-        States currentState = States.Initial;
-        int classCount = attendanceData.Count();
-        int startIdx = Math.Max(0, classCount - 3); // index 3 terakhir class
+        AttendanceStates currentState = AttendanceStates.Initial;
+        int classCount = attendanceData.Count;
+        int startIdx = Math.Max(0, classCount - 3); // 3 kelas terakhir
         int presentCountLastThree = attendanceData.GetRange(startIdx, classCount - startIdx).Count(isPresent => isPresent);
 
-        // check mahasiswa isImproving
+        // Memeriksa apakah ada peningkatan kehadiran
         if (presentCountLastThree < 3)
         {
             return false;
@@ -43,23 +43,23 @@ public class AnalisisPresensi
             bool isPresent = attendanceData[i];
             switch (currentState)
             {
-                case States.Initial:
+                case AttendanceStates.Initial:
                     if (isPresent)
                     {
-                        currentState = States.Improving;
+                        currentState = AttendanceStates.Improving;
                     }
                     else
                     {
-                        currentState = States.NotImproving;
+                        currentState = AttendanceStates.NotImproving;
                     }
                     break;
-                case States.Improving:
+                case AttendanceStates.Improving:
                     if (!isPresent)
                     {
-                        currentState = States.NotImproving;
+                        currentState = AttendanceStates.NotImproving;
                     }
                     break;
-                case States.NotImproving:
+                case AttendanceStates.NotImproving:
                     if (isPresent)
                     {
                         return true;
@@ -68,6 +68,6 @@ public class AnalisisPresensi
             }
         }
 
-        return currentState == States.Improving;
+        return currentState == AttendanceStates.Improving;
     }
 }
