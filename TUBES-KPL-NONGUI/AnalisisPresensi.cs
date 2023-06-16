@@ -15,6 +15,16 @@ public class AnalisisPresensi
 
     public AnalisisPresensi(List<bool> attendanceData)
     {
+        if (attendanceData == null)
+        {
+            throw new ArgumentNullException(nameof(attendanceData), "Attendance data Tidak bisa Bernilai Null.");
+        }
+
+        if (attendanceData.Any(value => value != true && value != false))
+        {
+            throw new ArgumentException("Data kehadiran berisi nilai yang tidak valid. Hanya True atau False yang diperbolehkan.");
+        }
+
         this.attendanceData = attendanceData;
     }
 

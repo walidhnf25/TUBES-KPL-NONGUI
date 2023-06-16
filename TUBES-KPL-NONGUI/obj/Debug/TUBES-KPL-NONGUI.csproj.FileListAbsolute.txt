@@ -6,3 +6,6 @@ C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tubes
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tubes\TUBES-KPL-NONGUI\obj\Debug\TUBES-KPL-NONGUI.csproj.CoreCompileInputs.cache
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tubes\TUBES-KPL-NONGUI\obj\Debug\TUBES-KPL-NONGUI.exe
 C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tubes\TUBES-KPL-NONGUI\obj\Debug\TUBES-KPL-NONGUI.pdb
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tubes\TUBES-KPL-NONGUI\obj\Debug\TUBES_KPL_NONGUI.Form1.resources
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tubes\TUBES-KPL-NONGUI\obj\Debug\TUBES-KPL-NONGUI.csproj.GenerateResource.cache
+C:\Users\zuhay\OneDrive\Dokumen\Raffa\Semester 4\Kontruksi Perangkat Lunak\Tubes\TUBES-KPL-NONGUI\obj\Debug\TUBES_KPL_NONGUI.Form2.resources

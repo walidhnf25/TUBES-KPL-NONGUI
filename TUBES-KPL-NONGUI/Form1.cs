@@ -17,7 +17,26 @@ namespace TUBES_KPL_NONGUI
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void close_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void analisis_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+            this.Hide();
+        }
+
+        private void notifikasi_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3();
+            form3.Show();
+            this.Hide();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

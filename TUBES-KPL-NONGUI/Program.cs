@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading;
+using System.Windows.Forms;
 
 
 namespace TUBES_KPL_NONGUI
@@ -9,7 +10,19 @@ namespace TUBES_KPL_NONGUI
     {
         static void Main(string[] args)
         {
+            
+            {
+                Application.EnableVisualStyles();
+                Application.SetCompatibleTextRenderingDefault(false);
 
+                // Create an instance of Form1 (Start Menu)
+                Form1 form1 = new Form1();
+
+                // Start the application and run Form1
+                Application.Run(form1);
+            }
+
+            /*
             SystemNotifikasi attendanceSystem = new SystemNotifikasi();
 
             Console.WriteLine("Sistem Presensi");
@@ -87,7 +100,9 @@ namespace TUBES_KPL_NONGUI
                    
                     Console.WriteLine();
                 }
-            }
+            }  */
+
+
         }
     }
 }
